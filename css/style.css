@@ -1,0 +1,43 @@
+.index__imagenfondo {
+    background-image: url(../assets/tapa-de-asado.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 25rem;
+    border: 3px black   solid;
+    
+}
+.index__imagenfondo div {
+    height: 20rem;
+}
+.index__imagenfondo div div div strong {
+    font-size: 50px;
+    color: azure;
+    align-items: center;
+    justify-content: center;
+
+}
+.index__imagenfondo div div div p {
+    font-size: 25px;
+    color: azure;
+    align-items: center;
+    justify-content: center;
+}
+
+main {
+    background-color: beige;
+}
+
+#index__iconosinformativos {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+
+}
+
+
+#footer {
+
+    background-color: rgb(29, 29, 29);
+
+    color: rgb(100, 100, 100);
+}
